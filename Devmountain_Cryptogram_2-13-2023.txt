@@ -1,0 +1,18 @@
+A = Q
+J = U
+C = E
+D = R
+Y = O
+I ~ M
+Q ~ N
+U ~ T
+B ~ S
+P ~ I
+K ~ C
+Z ~ A
+F ~ G
+E ~ D
+W ~ V
+L ~ P
+
+Q U E U E | P A I R - P R O G R A M M I N G | A D V I S O R   M E E T I N G S | M E S S A G E   I N S T R U C T O R   O R   M E N T O R
